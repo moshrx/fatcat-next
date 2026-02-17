@@ -76,7 +76,9 @@ export default function Footer() {
       </div>
 
       <div className="border-t border-brown-800 py-5 text-center text-xs text-cream-300/60">
-        &copy; {new Date().getFullYear()} Fatcat Bakery. All rights reserved.
+        &copy; {new Date().getFullYear()} Fatcat Bakery. All rights reserved.    &nbsp;
+        &nbsp;
+        Developed by moshr.
       </div>
     </footer>
   );
