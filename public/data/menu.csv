@@ -1,0 +1,27 @@
+category,name,description,price,image,available
+Cakes,Chocolate Fudge Cake,Rich dark chocolate cake with silky fudge frosting,28.00,,yes
+Cakes,Carrot Cake,Moist carrot cake with cream cheese frosting and walnuts,26.00,,yes
+Cakes,Red Velvet Cake,Classic red velvet with smooth cream cheese icing,28.00,,yes
+Cakes,Lemon Layer Cake,Light lemon sponge with tangy lemon curd filling,26.00,,yes
+Cupcakes,Vanilla Bean Cupcake,Classic vanilla cupcake with buttercream swirl,4.50,,yes
+Cupcakes,Chocolate Cupcake,Rich chocolate cupcake with chocolate ganache,4.50,,yes
+Cupcakes,Salted Caramel Cupcake,Caramel-filled cupcake with sea salt buttercream,5.00,,yes
+Cupcakes,Lemon Blueberry Cupcake,Fresh lemon cupcake studded with wild blueberries,5.00,,yes
+Cookies,Chocolate Chip Cookie,Classic cookie loaded with semi-sweet chocolate chips,3.00,,yes
+Cookies,Oatmeal Raisin Cookie,Chewy oatmeal cookie with plump raisins and cinnamon,3.00,,yes
+Cookies,Snickerdoodle,Soft and chewy cinnamon-sugar coated cookie,3.00,,yes
+Cookies,Double Chocolate Cookie,Fudgy chocolate cookie with white chocolate chunks,3.50,,yes
+Squares & Brownies,Classic Brownie,Fudgy dark chocolate brownie with a crackly top,4.00,,yes
+Squares & Brownies,Lemon Square,Buttery shortbread base with bright lemon curd,4.00,,yes
+Squares & Brownies,Nanaimo Bar,No-bake Canadian classic with custard and chocolate,4.50,,yes
+Squares & Brownies,Butter Tart Square,Gooey butter tart filling on a flaky pastry base,4.50,,yes
+Breads & Scones,Sourdough Loaf,Artisan sourdough with crispy crust and tangy crumb,8.00,,yes
+Breads & Scones,Blueberry Scone,Tender scone bursting with fresh PEI blueberries,4.00,,yes
+Breads & Scones,Cinnamon Raisin Bread,Soft bread swirled with cinnamon and packed with raisins,7.00,,yes
+Breads & Scones,Cheese Scone,Savoury scone loaded with aged cheddar,4.00,,yes
+Vegan,Vegan Chocolate Cupcake,Dairy-free chocolate cupcake with coconut frosting,5.50,,yes
+Vegan,Vegan Banana Bread,Moist banana bread made with coconut oil,6.00,,yes
+Vegan,Vegan Oatmeal Cookie,Plant-based oatmeal cookie with dried cranberries,3.50,,yes
+Gluten-Free,GF Chocolate Cake,Rich flourless chocolate cake made with almond flour,30.00,,yes
+Gluten-Free,GF Lemon Poppy Seed Muffin,Light and zesty muffin with poppy seeds,5.00,,yes
+Gluten-Free,GF Brownie,Fudgy almond flour brownie with a rich chocolate flavor,5.00,,yes
